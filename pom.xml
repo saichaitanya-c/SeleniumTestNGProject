@@ -36,16 +36,7 @@
 
   <dependencies>
     <!-- JUnit (not used if you're using TestNG, but OK to keep) -->
-    <dependency>
-      <groupId>org.junit.jupiter</groupId>
-      <artifactId>junit-jupiter-api</artifactId>
-      <scope>test</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.junit.jupiter</groupId>
-      <artifactId>junit-jupiter-params</artifactId>
-      <scope>test</scope>
-    </dependency>
+    
 
     <!-- Selenium WebDriver -->
     <dependency>
